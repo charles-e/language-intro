@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "type": "module",
   "dependencies": {
-    "@explorablegraph/explorable": "0.0.9"
+    "@explorablegraph/explorable": "0.0.10"
   },
   "scripts": {
     "start": "ori serve"
