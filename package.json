@@ -1,0 +1,11 @@
+{
+  "name": "framework-intro",
+  "version": "0.0.1",
+  "type": "module",
+  "dependencies": {
+    "@explorablegraph/explorable": "github:ExplorableGraph/explorable#45b61b2f"
+  },
+  "scripts": {
+    "start": "ori serve"
+  }
+}
