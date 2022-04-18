@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "type": "module",
   "dependencies": {
-    "@explorablegraph/explorable": "github:ExplorableGraph/explorable#45b61b2f"
+    "@explorablegraph/explorable": "0.0.9"
   },
   "scripts": {
     "start": "ori serve"
