@@ -3,9 +3,10 @@
   "version": "0.0.1",
   "type": "module",
   "dependencies": {
-    "@explorablegraph/explorable": "0.0.10"
+    "@explorablegraph/explorable": "0.0.10",
+    "node-fetch": "3.2.3"
   },
   "scripts": {
-    "start": "ori serve"
+    "start": "ori serve graphVirtual"
   }
 }
