@@ -5,25 +5,7 @@
 }
 
 body {
-  --e-global-color-primary: #269bff;
-  --e-global-color-secondary: #006be6;
-  --e-global-color-text: #0a3053;
-  --e-global-color-accent: #8dbede;
-  --e-global-color-18a136e: #3f7598;
-  --e-global-color-c1cb774: #f4f8fc;
-  --e-global-color-05cf5d2: #061c3d;
-  --e-global-color-1f2c0c1: #2bd7f2;
-  --e-global-color-e41cc18: #ffffff;
-  --e-global-typography-primary-font-family: "Rubik";
-  --e-global-typography-primary-font-weight: 600;
-  --e-global-typography-secondary-font-family: "Rubik";
-  --e-global-typography-secondary-font-weight: 400;
-  --e-global-typography-text-font-family: "Rubik";
-  --e-global-typography-text-font-weight: 400;
-  --e-global-typography-accent-font-family: "Rubik";
-  --e-global-typography-accent-font-weight: 500;
-  --e-global-typography-00d6437-font-family: "Rubik";
-  color: var(--e-global-color-text);
+  color: #0a3053;
   font-family: "Rubik", Sans-serif;
   padding: 1em;
 }
@@ -79,8 +61,6 @@ header {
 }
 
 .tile .name {
-  --page-title-display: none;
-  -webkit-font-smoothing: antialiased;
   word-wrap: break-word;
   hyphens: manual;
   text-align: center;
