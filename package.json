@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "type": "module",
   "dependencies": {
-    "@explorablegraph/explorable": "0.0.11",
+    "@explorablegraph/explorable": "0.0.12",
     "node-fetch": "3.2.3"
   },
   "scripts": {
