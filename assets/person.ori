@@ -13,7 +13,7 @@
       </header>
     </a>
     <main class="person">
-      <img class="avatar large" src="../avatars/{{name}}.svg" alt="{{name}}" />
+      <img class="avatar large" src="../avatars/{{name}}.jpg" alt="{{name}}" />
       <h2 class="name">{{name}}</h2>
     </main>
   </body>
