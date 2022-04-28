@@ -16,7 +16,7 @@
           <a href="team/{{name}}.html">
             <img
               class="avatar small"
-              src="avatars/{{name}}.jpg"
+              src="avatars/{{name}}.svg"
               alt="{{name}}"
             />
             <h2 class="name">{{name}}</h2>
