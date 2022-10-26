@@ -1,0 +1,6 @@
+- name: Alice
+  location: New York
+- name: Bob
+  location: Buenos Aires
+- name: Carol
+  location: London

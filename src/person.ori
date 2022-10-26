@@ -1,0 +1,16 @@
+{{#page.ori}}
+  <a class="headerLink" href="..">
+    <header>
+      <img class="icon" src="../personIcon.svg" />
+      <h1>{{ title }}</h1>
+    </header>
+  </a>
+  <main class="person">
+    <img class="avatar large" src="../avatars/{{ name }}.svg" alt="{{ name }}" />
+    <h2 class="name">{{ name }}</h2>
+    <p>
+      {{ greet(name) }}
+      {{ name }} is such a fantastic person.
+    </p>
+  </main>
+{{/page.ori}}

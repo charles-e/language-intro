@@ -1,0 +1,27 @@
+{{#page.ori}}
+
+  <header>
+    <img class="icon" src="personIcon.svg" />
+    <h1>{{ title }}</h1>
+  </header>
+
+  <ul class="tileGrid">
+    {{#map team.yaml}}
+    <li class="tile">
+      <a href="team/{{ name }}.html">
+        <img
+          class="avatar small"
+          src="avatars/{{ name }}.svg"
+          alt="{{ name }}"
+        />
+        <h2 class="name">{{ name }}</h2>
+      </a>
+    </li>
+    {{/map}}
+  </ul>
+  
+  <p>
+    {{ ReadMe.md }}
+  </p>
+
+{{/page.ori}}
