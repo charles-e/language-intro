@@ -9,7 +9,7 @@
     "node": ">=16.6.1"
   },
   "scripts": {
-    "start": "ori serve virtual/src/public",
+    "start": "ori serve watch virtual/src/public",
     "build": "ori copy virtual/src/public, files/build"
   },
   "glitch": {
