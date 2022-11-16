@@ -9,8 +9,8 @@
     "node": ">=16.6.1"
   },
   "scripts": {
-    "start": "ori serve virtual/src",
-    "build": "ori copy virtual/src, files/build"
+    "start": "ori serve virtual/src/public",
+    "build": "ori copy virtual/src/public, files/build"
   },
   "glitch": {
     "projectType": "generated_static"
