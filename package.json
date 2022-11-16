@@ -3,7 +3,16 @@
   "version": "0.0.1",
   "type": "module",
   "dependencies": {
-    "@graphorigami/origami": "0.0.20",
-    "node-fetch": "3.2.10"
+    "@graphorigami/origami": "0.0.20"
+  },
+  "engines": {
+    "node": ">=16.6.1"
+  },
+  "scripts": {
+    "start": "ori serve virtual/src",
+    "build": "ori copy virtual/src, files/build"
+  },
+  "glitch": {
+    "projectType": "generated_static"
   }
 }
