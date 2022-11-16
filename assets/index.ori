@@ -14,7 +14,7 @@
       {{#map team.yaml}}
       <li class="tile">
         <a href="team/{{ name }}.html">
-          <img class="avatar" src="thumbnails/{{ photo }}" alt="{{ name }}">
+          <img class="avatar" src="thumbnails/{{ image }}" alt="{{ name }}">
           <h2 class="name">{{ name }}</h2>
           <div class="location">{{ location }}</div>
         </a>
