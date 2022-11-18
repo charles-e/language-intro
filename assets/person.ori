@@ -15,7 +15,7 @@
     <main class="person">
       <img class="avatar large" src="../images/{{ image }}" alt="{{ name }}" />
       <h2 class="name">{{ name }}</h2>
-      <div class="position">
+      <div class="location">
         {{ location }}
       </div>
       <p class="bio">
