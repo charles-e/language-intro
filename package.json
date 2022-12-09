@@ -9,8 +9,8 @@
     "node": ">=16.6.1"
   },
   "scripts": {
-    "start": "ori serve watch virtual/src/public",
-    "build": "ori copy virtual/src/public, files/build"
+    "start": "ori serve watch2 src, =defaultPages site.vfiles/public",
+    "build": "ori copy src/site.vfiles/public, files/build"
   },
   "glitch": {
     "projectType": "generated_static"
