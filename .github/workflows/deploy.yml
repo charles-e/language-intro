@@ -43,5 +43,4 @@ jobs:
         with:
           allow_empty_commit: true
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          keep_files: true
           publish_dir: ./build
