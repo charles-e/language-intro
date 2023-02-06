@@ -1,1 +1,1 @@
-export default (name) => `<p>Hello, <strong>${name}!</strong></p>`;
+export default (name) => `<p>Hello, <strong>${name}</strong>!</p>`;
