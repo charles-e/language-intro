@@ -1,3 +1,1 @@
-public = {
-  index.html = 'Hello'
-}
+index.html = 'Hello'
