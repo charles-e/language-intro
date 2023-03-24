@@ -15,6 +15,6 @@
   },
   "scripts": {
     "start": "ori @serve @watch src, =@debug site.graph/public",
-    "build": "ori @copy src/site.graph/public, files/build"
+    "build": "ori @copy src/site.graph/public, @files/build"
   }
 }
