@@ -3,11 +3,11 @@
   "version": "0.0.1",
   "type": "module",
   "dependencies": {
-    "@graphorigami/origami": "https://gitpkg.now.sh/GraphOrigami/origami/packages/origami?928d25f9",
+    "@graphorigami/origami": "https://gitpkg.now.sh/GraphOrigami/origami/packages/origami?5728feca",
     "sharp": "0.31.3"
   },
   "engines": {
-    "node": ">=16.14.2"
+    "node": ">=16.6.1"
   },
   "license": "MIT",
   "glitch": {
