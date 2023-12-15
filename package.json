@@ -1,9 +1,9 @@
 {
-  "name": "@graphorigami/framework-intro",
+  "name": "@weborigami/framework-intro",
   "version": "0.0.1",
   "type": "module",
   "dependencies": {
-    "@graphorigami/origami": "0.0.35",
+    "@weborigami/origami": "0.0.37",
     "sharp": "0.31.3"
   },
   "engines": {
