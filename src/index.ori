@@ -1,1 +1,7 @@
-=`<h1>About Us</h1>`
+=`<h1>About Us</h1>
+<ul>
+  {{ @map(_, =`
+    <li>{{ _/name }}</li>
+  `) }}
+</ul>
+`
