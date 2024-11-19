@@ -1,0 +1,6 @@
+{
+  "name": "Origami Language Introduction",
+  "extensions": [
+    "WebOrigami.origami-vscode-extension"
+  ]
+}
