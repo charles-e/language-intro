@@ -1,1 +1,1 @@
-=`<h1>{{ _/name }}</h1>`
+(person) => `<h1>${ person/name }</h1>`
